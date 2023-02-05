@@ -1,5 +1,0 @@
-# Start by ignoring everything by default
-*.js
-# Enable linting just for some files
-!src/**/*.js
-!src/**/*.jsx
